@@ -47,13 +47,3 @@ This repository contains a Python API program built with Flask that allows you t
 ## Contributing
 
 Contributions are welcome! If you find any issues or want to enhance the functionality of the API, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Please update the sections with the appropriate details based on your project.
-
-Let me know if you need any further assistance!
